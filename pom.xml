@@ -118,7 +118,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix></classpathPrefix>
-                            <mainClass>zzvcom.com.SingletonTest</mainClass>
+                            <mainClass>com.proxy.MyProxy</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
