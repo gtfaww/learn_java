@@ -1,4 +1,4 @@
-package com;
+package com.design;
 
 public class Singleton {
     private Singleton() {

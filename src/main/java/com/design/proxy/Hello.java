@@ -1,4 +1,4 @@
-package com.proxy;
+package com.design.proxy;
 
 public interface Hello {
     void SayHello();

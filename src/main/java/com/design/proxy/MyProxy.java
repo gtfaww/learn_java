@@ -1,6 +1,4 @@
-package com.proxy;
-
-import sun.rmi.runtime.NewThreadAction;
+package com.design.proxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;

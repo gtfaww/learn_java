@@ -118,7 +118,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix></classpathPrefix>
-                            <mainClass>com.proxy.MyProxy</mainClass>
+                            <mainClass>com.thread.DeadLock</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
